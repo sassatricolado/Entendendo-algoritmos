@@ -1,1 +1,1 @@
-Esse repositório foi criado com o intuito de armazenar os códigos que faço ao acompanhar o livro Entendendo algoritmos: Um guia ilustrado para programadores curiosos de Aditya Y. Bhargava. Todos os códigos serão feitos em Python.
+This repository was created for the purpouse of storing my codes that I make when following the book "Entendendo algoritmos:Um guia ilustrado para programadores curiosos de Aditya Y. Bhargava".
